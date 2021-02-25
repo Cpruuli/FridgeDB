@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\bin\Debug\FridgeDB.mdf
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\bin\Debug\FridgeDB_log.ldf
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\bin\Debug\FridgeDB2.exe.config
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\bin\Debug\FridgeDB2.exe
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\bin\Debug\FridgeDB2.pdb
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.Form1.resources
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.Properties.Resources.resources
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.exe
+C:\Users\opilane\source\repos\FridgeDB2\FridgeDB2\obj\Debug\FridgeDB2.pdb
